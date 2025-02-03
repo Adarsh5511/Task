@@ -1,4 +1,4 @@
-# Marketing Analysis: Identifying Profitable Products and Loyal Customers
+# Marketing Analysis
 
 ## Summary of Findings
 1. **Top 3 Most Profitable Products**:
